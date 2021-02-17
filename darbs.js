@@ -10,3 +10,6 @@ function AZ(){
     window.location.replace("aleksis.html");
 }
 
+function KM(){
+    window.location.replace("karlis.html");
+}
